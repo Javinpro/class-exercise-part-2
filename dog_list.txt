@@ -1,0 +1,13 @@
++--------------------------------------------------------------------------------------------------------------------+
+|                                                                                                                    |
+|                                               Welcome to our PetShop                                               |
+|                                                                                                                    |
++--------------------------------------------------------------------------------------------------------------------+
+|  No. |             Name Dog |            Breed Dog |     Size |                Eat |                         Status |
++------+----------------------+----------------------+----------+--------------------+--------------------------------+
+|    1 |                 Jaja |               Golden |    small |       1 time a day |          sleep and get in cage |
+|    2 |                 Jaja |               Golden |    small |       1 time a day |          sleep and get in cage |
+|    3 |                 Jaja |               Golden |    small |       1 time a day |          sleep and get in cage |
+|    4 |                 Jaja |               Golden |    small |       1 time a day |          sleep and get in cage |
+|    5 |                 Jaja |               Golden |    small |       1 time a day |          sleep and get in cage |
++------+----------------------+----------------------+----------+--------------------+--------------------------------+
